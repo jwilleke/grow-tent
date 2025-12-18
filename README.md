@@ -1,5 +1,7 @@
 # Capacitive Soil Moisture Sensor
 
+grow-tent is part of [grow-system](https://github.com/users/jwilleke/projects/2) and used with [grow-nutrient-tank](https://github.com/jwilleke/grow-nutrient-tank)
+
 Having heard all the issues with corrsion on Reistance Soil Moisture senrors, decided we should look at Capacitive Soil Moisture Sensor
 
 We used the [diymore 5pcs Capacitive Soil Moisture Sensor Module](https://www.amazon.com/dp/B07RYCNFZ5) 3.3-5.5V Wide Voltage Wire Corrosion Resistant Soil Humidity Detection 3-Pin Gravity Sensor Garden Watering DIY Module from Amazon.
