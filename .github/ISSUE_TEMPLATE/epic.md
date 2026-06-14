@@ -1,29 +1,23 @@
 ---
-name: EPIC
-about: Large feature or initiative that spans multiple issues
+name: Epic
+about: A large initiative that spans multiple issues
 title: "[EPIC] "
-labels: ''
-assignees: ''
-
+labels: ["needs-triage"]
 ---
 
-# 🎯 Epic Overview
+## Goal
 
-**Goal**: [High-level objective]
+<!-- The high-level objective. -->
 
-## 📋 Scope
+## Scope
 
-[What's included/excluded]
+<!-- What's included / explicitly excluded. -->
 
-## 🔗 Sub-Issues
+## Sub-issues
 
-- [ ] #X - [Sub-issue title]
-- [ ] #Y - [Sub-issue title]
+- [ ] #NNN — issue title
+- [ ] #NNN — issue title
 
-## ✅ Acceptance Criteria
+## Acceptance criteria
 
-[When is this epic complete?]
-
-## 📅 Timeline
-
-[Estimated completion]
+<!-- When is this epic complete? -->
