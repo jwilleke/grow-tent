@@ -1,3 +1,9 @@
+# Capacitive soil moisture sensor — test sketch
+
+Reads a capacitive soil moisture sensor on an ESP32 and prints the raw value and a
+percentage, self-adjusting the wet-end calibration as it sees lower readings.
+
+```cpp
 #include <Arduino.h>
 
 #define AOUT_PIN A0    // ESP32 pin GPIO36 (ADC0) that connects to AOUT pin of moisture sensor
@@ -46,7 +52,6 @@ void loop()
     lastmillis = millis();
   }
 }
+```
 
-
-https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/
-
+Reference: [Interface Capacitive Soil Moisture Sensor with Arduino](https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/)
