@@ -16,7 +16,7 @@
 
 ## 🔴 P0 — Security & Critical
 
-_none yet — run `/status`_
+*none yet — run `/status`*
 
 ## 🟠 P1
 
