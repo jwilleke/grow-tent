@@ -8,3 +8,5 @@ private/
 .claude/worktrees/
 .kit-sync/
 .kit-check/
+.continue/
+.agents/
