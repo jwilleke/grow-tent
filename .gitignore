@@ -10,3 +10,6 @@ private/
 .kit-check/
 .continue/
 .agents/
+
+# ESPHome secrets (wifi, API key, OTA/AP passwords) are never committed
+secrets.yaml
